@@ -9,5 +9,3 @@
 
 ## 𝕄𝕪 𝕤𝕥𝕒𝕥𝕤:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exalaolir&show_icons=true&theme=synthwave)
-
-![snake gif](https://github.com/exalaolir/exalaolir/blob/output/github-contribution-grid-snake.gif)
