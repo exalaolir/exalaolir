@@ -1,5 +1,19 @@
 <img src="https://github.com/exalaolir/exalaolir/blob/main/assets/start_img.png">
 
+## 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖
+```js
+class Me
+{
+  //basic info
+  name = "Alex"
+  whoIAm = "Frontend developer"
+  location = "Minsk"
+
+  //more info
+  infoAboutMe = "I am a frontend developer from Minsk. Love perfect work and coffee))"
+}
+```
+
 ## 𝕄𝕪 𝕤𝕜𝕚𝕝𝕝𝕤
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
