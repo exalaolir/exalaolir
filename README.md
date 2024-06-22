@@ -30,4 +30,6 @@ class Me
 </div>
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=exalaolir&theme=rogue&radius=10&title_color=e2e9ec&color=e2e9ec&bg_color=2b213a">
-</div>
+</div>  
+ <br/> 
+<img src="https://github.com/exalaolir/exalaolir/blob/main/assets/footer.png">
