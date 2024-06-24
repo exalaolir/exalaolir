@@ -13,7 +13,7 @@ class Me
   infoAboutMe = "I am a frontend developer from Minsk. Love perfect work and coffee))"
 }
 ```
-[![Spotify](https://novatoremkate.vercel.app/api/spotify)](https://open.spotify.com/user/ohvej2jr68p7h9g8yib1lfzl9)
+[![Spotify](https://novatorem-kate.vercel.app/api/spotify)](https://open.spotify.com/user/ohvej2jr68p7h9g8yib1lfzl9)
 
 ## 𝕄𝕪 𝕤𝕜𝕚𝕝𝕝𝕤
 
