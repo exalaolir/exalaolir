@@ -24,12 +24,13 @@ class Me
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 𝕄𝕪 𝕤𝕥𝕒𝕥𝕤:
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=exalaolir&show_icons=true&theme=synthwave&include_all_commits=true" width="59%" height="250">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exalaolir&layout=normal&bg_color=2b213a&hide_title=true&text_color=e2e9ec&langs_count=4" width="35%" height="250" align="right">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=exalaolir&show_icons=true&theme=synthwave&include_all_commits=true&card_width=350" width="47%" height="250">
+  <img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=exalaolir&locale=en&bg_color=2b213a&hide_title=false&text_color=ffffff&title_color=ffffff&layout=compact&card_width=320&langs_count=4&hide_border=false&order=2" height="250" width="47%" alt="languages graph">
 </div>
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=exalaolir&theme=rogue&radius=10&title_color=e2e9ec&color=e2e9ec&bg_color=2b213a">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=exalaolir&theme=rogue&radius=10&title_color=e2e9ec&color=e2e9ec&bg_color=2b213a" width="95%">
 </div>  
  <br/> 
 <img src="https://github.com/exalaolir/exalaolir/blob/main/assets/footer_final.png">
