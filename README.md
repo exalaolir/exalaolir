@@ -25,7 +25,7 @@ class Me
 
 ## 𝕄𝕪 𝕤𝕥𝕒𝕥𝕤:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=exalaolir&show_icons=true&theme=synthwave&include_all_commits=true&card_width=350" width="47%" height="250">
+  <img src="https://github-readme-stats.vercel.app/api?username=exalaolir&show_icons=true&theme=synthwave&include_all_commits=true&card_width=350" width="47%" height="209">
   <img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=exalaolir&locale=en&bg_color=2b213a&hide_title=false&text_color=ffffff&title_color=ffffff&layout=compact&card_width=320&langs_count=4&hide_border=false&order=2" height="250" width="47%" alt="languages graph">
 </div>
