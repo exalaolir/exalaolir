@@ -1,16 +1,19 @@
 <img src="https://github.com/exalaolir/exalaolir/blob/main/assets/start_img.png">
 
 ## 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖
-```js
-class Me
+```csharp
+public sealed class Me
 {
-  //basic info
-  name = "Alex"
-  whoIAm = "Frontend developer"
-  location = "Minsk"
+    // Basic info
+    public string Name => "Alex";
+    public string Location => "Minsk, Belarus";
+    public string WhoIAm => "Full stack developer";
 
-  //more info
-  infoAboutMe = "I am a frontend developer from Minsk. Love perfect work and coffee))"
+    //more info
+    public string InfoAboutMe => """
+        I am a full stack developer from Minsk. I'm passionate about automation and creating 
+        small utilities that enhance my user experience.
+        """;
 }
 ```
 
@@ -22,6 +25,11 @@ class Me
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![С#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=dotnet)
+![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker)
+![React](https://img.shields.io/badge/react-002572?style=for-the-badge&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSql-white?style=for-the-badge&logo=postgresql)
+![С#](https://img.shields.io/badge/ASP.NET%20CORE-purple?style=for-the-badge&logo=dotnet)
 
 ## 𝕄𝕪 𝕤𝕥𝕒𝕥𝕤:
 <div align="center">
