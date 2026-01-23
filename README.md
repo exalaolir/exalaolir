@@ -9,7 +9,7 @@ public sealed class Me
     public string Location => "Minsk, Belarus";
     public string WhoIAm => "Full stack developer";
 
-    //more info
+    // More info
     public string InfoAboutMe => """
         I am a full stack developer from Minsk. I'm passionate about automation and creating 
         small utilities that enhance my user experience.
