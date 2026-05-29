@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=synthwave&include_all_commits=true&card_width=350
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=synthwave&include_all_commits=true&card_width=390
           path: assets/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
