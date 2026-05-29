@@ -33,7 +33,8 @@ public sealed class Me
 
 ## 𝕄𝕪 𝕤𝕥𝕒𝕥𝕤:
 <div align="center">
-  <img src="./assets/stats.svg" width="44%" height="220px">
+  <img src="./assets/stats.svg" width="44%" height="210px">
+  <img width="20px">
   <img src="./assets/top-langs.svg" width="48%" height="240px">
 </div>
 <div align="center">
